@@ -52,7 +52,7 @@ Lead-Scoring-Intent-Recognition/
 │── README.md
 │── lead scoring.py
 │── inquiries.json
-``
+```
 
 ## Working Process
 
@@ -62,6 +62,7 @@ Lead-Scoring-Intent-Recognition/
 4. Lead Scoring calculates the priority level of each inquiry.
 5. The user can also enter a new custom inquiry manually.
 6. The system predicts the intent and lead score for the new user query.
+
 
 ## Example
 
@@ -79,4 +80,6 @@ Intent: Buy Property
 Lead Score: High
 ```
 
+
+```
 
